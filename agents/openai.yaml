@@ -1,0 +1,4 @@
+interface:
+  display_name: "更新 Arduino 及程式庫"
+  short_description: "更新 Windows Arduino 安裝套件與函式庫"
+  default_prompt: "更新 Arduino 及程式庫"
